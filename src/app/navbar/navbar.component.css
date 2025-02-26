@@ -1,0 +1,10 @@
+ul{
+    background-color: rgb(6, 68, 24);
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+li{
+    list-style: none;
+    color:beige;
+}
